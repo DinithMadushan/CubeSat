@@ -1,9 +1,10 @@
-# CubeSat Error Fix TODO
+# CubeSat README Update TODO
 
-## Steps from approved plan:
-- [x] Step 1: Install missing dependency 'simple-pid' (verified import success)
-- [x] Step 2: Install pygame & numpy (pip install failed due to pygame build error on Windows/Python 3.14; numpy ok)
-- [ ] Step 3: Install Microsoft C++ Build Tools (https://visualstudio.microsoft.com/visual-cpp-build-tools/), restart terminal/VSCode, retry 'pip install pygame'
-- [ ] Step 4: Verify deps: python -c "import pygame, numpy, simple_pid"
-- [ ] Step 5: Test run 'python system.py'
-- [ ] Step 6: Confirm no code errors, complete task
+## Implementation Steps from Approved Plan:
+- [x] Step 1: Create/update README.md with full structure (hero, features, quick start, usage, troubleshooting, etc.)
+- [x] Step 2: Verify README renders correctly in VSCode Markdown preview
+- [x] Step 3: Update this TODO.md with completion status
+- [x] Step 4: attempt_completion with run command suggestion (after deps per original TODO.md)
+
+Progress will be updated after each step.
+
