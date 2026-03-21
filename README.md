@@ -63,9 +63,9 @@ python system.py
 - **Import Errors**: See [TODO.md](TODO.md) for status
 - Verify deps: `python -c "import pygame, numpy, simple_pid; print('OK')"`
 
-## 📈 Screenshots
+<!--## 📈 Screenshots
 *(Recommended: Capture login, main sim, graphs, planet menu)*
-
+-->
 ## 🔧 Development
 - Main file: [system.py](system.py)
 - Edit PID gains in `AttitudeController` / `OrbitalController`
